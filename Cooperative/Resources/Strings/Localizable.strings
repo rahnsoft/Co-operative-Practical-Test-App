@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Cooperative
+
+  Created by Nicholas Wakaba on 15/12/2023.
+  
+*/
+
+// MARK: - Common
+
+"Common_Bank_Greetings" = "Welcome to Co-op Bank";
+"Common_Bank_User_Greetings" = "Welcome %@ to the new Co-op Bank app!";
+"Common_Save" = "Save";
+"Common_Okay" = "Okay";
+"Common_Cancel" = "Cancel";
+"Common_GotIt" = "Ok, got it";
+"Common_Continue" = "Continue";
+"Common_TryAgain" = "Try again";
+
+// Mark: - Auth
+
+"Login_Title" = "Login";
+"Login_Username" = "Username";
+"Login_Password" = "Password";
+"Login_Use_Credentials" = "Use your credentials to login";
+"Logout_Title" = "Logout";
+"Login_Sucess" = "Login successful";
+
+// MARK: Errors
+"Common_GeneralError" = "There was an error";
+"Common_InternetError" = "No internet connection";
+"Invalid_PhoneNumber" = "Please enter valid phone number";
